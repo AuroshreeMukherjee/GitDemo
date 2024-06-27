@@ -44,3 +44,4 @@ class TestOne(BaseClass):
         assert ("Success! Thank you!" in textMatch)
 
         print("Auro learning to use git")
+        print("Auro learning to use git1")
